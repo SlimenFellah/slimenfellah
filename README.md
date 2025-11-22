@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI**
 
-- 👨‍💻 All of my projects are available at [https://slimenefellah.vercel.app/](https://slimenefellah.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://www.slimenefellah.dev](https://www.slimenefellah.dev)
 
 - 💬 Ask me about **Web development | AI | Computer Science | Astronomy and physics 💫🧠**
 
